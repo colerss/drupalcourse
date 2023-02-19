@@ -1,0 +1,3 @@
+/* Source and licensing information for the line(s) below can be found at http://localhost/drupal_google/core/themes/olivero/css/components/header-buttons-mobile.css. */
+.mobile-buttons{margin-block-start:var(--sp0-5);margin-inline-start:auto}@media (min-width:31.25rem){.mobile-buttons{margin-block-start:var(--sp2)}}@media (min-width:43.75rem){.mobile-buttons{margin-block-start:var(--sp4)}}@media (min-width:75rem){.mobile-buttons{margin-block-start:var(--sp6)}}@media (min-width:75rem){body:not(.is-always-mobile-nav) .mobile-buttons{display:none}}
+/* Source and licensing information for the above line(s) can be found at http://localhost/drupal_google/core/themes/olivero/css/components/header-buttons-mobile.css. */

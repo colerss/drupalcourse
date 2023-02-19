@@ -1,0 +1,32 @@
+name: Netflix
+type: theme
+description: 'Netflix theme for Drupal 10'
+core_version_requirement: ^8 || ^9 || ^10
+libraries:
+  - netflix/global-styling
+base theme: classy
+region:
+  header: 'Header'
+  primary_menu: 'Primary menu'
+  secondary_menu: 'Secondary menu'
+  highlighted: 'Highlighted'
+  help: 'Help'
+  content: 'Content'
+  sidebar_first: 'Left sidebar'
+  sidebar_second: 'Right sidebar'
+  footer: 'Footer'
+  breadcrumb: 'Breadcrumb'
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'
+  sidebar: 'Netflix Sidebar'
+  homepage: 'Homepage Display'
+screenshot: netflix.png
+hidden: false
+logo: images/logo.png
+features:
+  - comment_user_verification
+  - logo
+  - favicon
+  - node_user_picture
+libraries-override:
+  classy/base: false
